@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="main_text">I Am Poor</string>
+    <string name="black_lump_of_coal">Black lump of coal</string>
 </resources>
